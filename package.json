@@ -16,10 +16,10 @@
   "author": "Colin \"Vindexus\" Kierans",
   "license": "MIT",
   "dependencies": {
-    "colors": "^1.1.2",
-    "handlebars": "^4.0.6",
-    "lodash": "^4.17.4",
-    "nodemon": "^1.11.0",
-    "rpgparser-data": "Vindexus/rpgparser-data"
+    "colors": "^1.4.0",
+    "handlebars": "^4.7.6",
+    "lodash": "^4.17.15",
+    "nodemon": "^2.0.4",
+    "rpgparser-data": "github:Vindexus/rpgparser-data"
   }
 }
